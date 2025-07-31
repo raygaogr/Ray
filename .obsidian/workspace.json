@@ -14,7 +14,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "New tab"
             }
           }
         ],
@@ -41,7 +41,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -58,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -68,7 +68,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -100,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Outgoing links"
             }
           },
           {
@@ -128,7 +128,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "ac60fa6b23e3329b",
+            "id": "2c255f317cdbc5fd",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -165,7 +165,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "Graph view"
             }
           },
           {
@@ -199,7 +199,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Outline"
             }
           }
         ],
@@ -211,27 +211,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:创建新看板": false,
       "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "homepage:Open homepage": false
     }
   },
   "active": "3d5aecc5996560f0",
   "lastOpenFiles": [
-    "02 Literature/Obsidian 快捷键.md",
-    "MOC/快捷键总览.md",
-    "01 Inbox/ISA.md",
-    "01 Inbox/Drawing 2025-07-29 19.11.54.excalidraw.md",
-    "01 Inbox/DDPM 的理解思路.md",
-    "01 Inbox/GEMM Micro Kernel.md"
+    "Excalidraw/Scripts/Downloaded/Uniform size.svg",
+    "Excalidraw/Scripts/Downloaded/Uniform size.md",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
+    "Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
+    "Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.md",
+    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
+    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.svg",
+    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
+    "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
+    "04 Area/Mathematics/Drawing 2025-07-18 10.27.33.excalidraw.md",
+    "04 Area/Mathematics/蕴含关系.md",
+    "04 Area/Mathematics/蕴含.md",
+    "04 Area/Mathematics/环.md",
+    "04 Area/Mathematics/群.md",
+    "04 Area/Mathematics/陪集.md",
+    "04 Area/Mathematics/多项式定理.md",
+    "04 Area/Mathematics/测量空间.md",
+    "01 Inbox/期望增量预估.md",
+    "01 Inbox/基本概念.md"
   ]
 }
