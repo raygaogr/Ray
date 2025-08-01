@@ -1,0 +1,20 @@
+{
+  "accentColor": "#e68e8e",
+  "theme": "moonstone",
+  "cssTheme": "Border",
+  "textFontFamily": "",
+  "baseFontSizeAction": true,
+  "nativeMenus": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "contribution",
+    "kanban-block-editor",
+    "kanban-redesign",
+    "rightlane",
+    "sidepane",
+    "theme",
+    "coffeebean"
+  ],
+  "baseFontSize": 16,
+  "showRibbon": true
+}

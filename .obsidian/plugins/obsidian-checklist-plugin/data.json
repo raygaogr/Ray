@@ -1,0 +1,19 @@
+{
+  "todoPageName": "todo",
+  "showChecked": false,
+  "showAllTodos": true,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "日记/2023-12-27.md",
+    "日记/2023-12-25.md",
+    "日记/2024-01-02.md"
+  ],
+  "_hiddenTags": []
+}

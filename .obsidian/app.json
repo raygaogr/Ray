@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "trashOption": "system",
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Attachment",
+  "strictLineBreaks": true,
+  "propertiesInDocument": "visible",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "newFileFolderPath": "01 Inbox"
+}
