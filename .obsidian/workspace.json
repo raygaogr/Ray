@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b80e0cbe3491ff",
+        "id": "c963978b74dd011f",
         "type": "tabs",
         "children": [
           {
-            "id": "3d5aecc5996560f0",
+            "id": "755eb1e86386e591",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06 Diary/Diary占位.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Diary占位"
             }
           }
         ],
@@ -41,7 +46,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -58,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -68,7 +73,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           }
         ]
@@ -91,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06 Diary/Diary占位.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Diary占位 的反向链接列表"
             }
           },
           {
@@ -109,11 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "06 Diary/Diary占位.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Diary占位 的出链列表"
             }
           },
           {
@@ -128,7 +135,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -142,7 +149,7 @@
             }
           },
           {
-            "id": "2c255f317cdbc5fd",
+            "id": "a295a3371d2c45d9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -165,7 +172,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "关系图谱"
             }
           },
           {
@@ -194,12 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "06 Diary/Diary占位.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Diary占位 的大纲"
             }
           }
         ],
@@ -211,22 +219,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-kanban:创建新看板": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "workspaces:Manage workspace layouts": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "3d5aecc5996560f0",
+  "active": "755eb1e86386e591",
   "lastOpenFiles": [
+    "05 Archive/Archive占位.md",
+    "06 Diary/Diary占位.md",
+    "03 Project/Project 占位.md",
+    "06 Diary",
+    "05 Archive",
+    "03 Project",
     "Excalidraw/Scripts/Downloaded/Uniform size.svg",
     "Excalidraw/Scripts/Downloaded/Uniform size.md",
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
@@ -247,7 +261,6 @@
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
-    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.svg",
     "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
@@ -260,8 +273,6 @@
     "04 Area/Mathematics/群.md",
     "04 Area/Mathematics/陪集.md",
     "04 Area/Mathematics/多项式定理.md",
-    "04 Area/Mathematics/测量空间.md",
-    "01 Inbox/期望增量预估.md",
-    "01 Inbox/基本概念.md"
+    "04 Area/Mathematics/测量空间.md"
   ]
 }
