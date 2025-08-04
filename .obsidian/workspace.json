@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b80e0cbe3491ff",
+        "id": "5e694843be3d7fce",
         "type": "tabs",
         "children": [
           {
-            "id": "3d5aecc5996560f0",
+            "id": "5a3e0f50a234fef5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "01 Inbox/goto.md",
-                "bFile": "01 Inbox/goto.md",
-                "aRef": ""
+                "file": "03 Project/Project 占位.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: goto"
+              "icon": "lucide-file",
+              "title": "Project 占位"
             }
           }
         ],
@@ -95,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 Project/Project 占位.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Project 占位 的反向链接列表"
             }
           },
           {
@@ -113,11 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 Project/Project 占位.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Project 占位 的出链列表"
             }
           },
           {
@@ -159,6 +162,27 @@
         "currentTab": 4
       },
       {
+        "id": "9ea570c3f041ae5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9e1a74dedecc5cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 Project/Project 占位.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Project 占位 的大纲"
+            }
+          }
+        ]
+      },
+      {
         "id": "e33d230675c3fc4d",
         "type": "tabs",
         "children": [
@@ -191,20 +215,6 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "e9e1a74dedecc5cc",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
           }
         ],
         "currentTab": 2
@@ -229,8 +239,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3d5aecc5996560f0",
+  "active": "cd117958e3d08c4b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "06 Diary/Diary占位.md",
+    "05 Archive/Archive占位.md",
+    "05 Archive",
+    "03 Project/Project 占位.md",
     "04 Area/Mathematics/Drawing 2025-07-18 10.27.33.excalidraw.md",
     "04 Area/Mathematics/多项式定理.md",
     "04 Area/Mathematics/测量空间.md",
@@ -254,10 +269,6 @@
     "01 Inbox/基本概念.md",
     "01 Inbox/卷积实现.md",
     "01 Inbox/SEE2 指令集.md",
-    "01 Inbox/产前流程.md",
-    "01 Inbox/GEMM.md",
-    "01 Inbox/GEMM Packing Matrix B.md",
-    "01 Inbox/Bellman最优公式.md",
     "Excalidraw/Scripts/Downloaded/Uniform size.svg",
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
     "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
