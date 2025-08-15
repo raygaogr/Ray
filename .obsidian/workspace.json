@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Add Connector Point"
             }
+          },
+          {
+            "id": "22b5b495cc8503f6",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -96,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Add Connector Point"
+              "title": "Backlinks"
             }
           },
           {
@@ -115,12 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Add Connector Point"
+              "title": "Outgoing links"
             }
           },
           {
@@ -201,13 +214,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Add Connector Point"
+              "title": "Outline"
             }
           }
         ],
@@ -233,8 +245,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bde1b854a1bf33b8",
+  "active": "22b5b495cc8503f6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+    "06 Diary/Diary占位.md",
+    "06 Diary",
+    "05 Archive/Archive占位.md",
+    "05 Archive",
+    "03 Project/Project 占位.md",
+    "03 Project",
     "MOC/快捷键总览.md",
     "Excalidraw/Scripts/Downloaded/Uniform size.svg",
     "Excalidraw/Scripts/Downloaded/Uniform size.md",
@@ -265,11 +285,6 @@
     "04 Area/Mathematics/蕴含关系.md",
     "04 Area/Mathematics/蕴含.md",
     "04 Area/Mathematics/环.md",
-    "04 Area/Mathematics/群.md",
-    "04 Area/Mathematics/陪集.md",
-    "04 Area/Mathematics/多项式定理.md",
-    "04 Area/Mathematics/测量空间.md",
-    "01 Inbox/期望增量预估.md",
-    "01 Inbox/基本概念.md"
+    "04 Area/Mathematics/群.md"
   ]
 }
