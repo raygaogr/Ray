@@ -11,10 +11,15 @@
             "id": "3d5aecc5996560f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Add Connector Point"
             }
           }
         ],
@@ -91,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Add Connector Point"
             }
           },
           {
@@ -109,11 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Add Connector Point"
             }
           },
           {
@@ -142,7 +149,7 @@
             }
           },
           {
-            "id": "2c255f317cdbc5fd",
+            "id": "fec378316f287c6d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -194,12 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Add Connector Point"
             }
           }
         ],
@@ -225,8 +233,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3d5aecc5996560f0",
+  "active": "bde1b854a1bf33b8",
   "lastOpenFiles": [
+    "MOC/快捷键总览.md",
     "Excalidraw/Scripts/Downloaded/Uniform size.svg",
     "Excalidraw/Scripts/Downloaded/Uniform size.md",
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
@@ -247,7 +256,6 @@
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
-    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.svg",
     "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
