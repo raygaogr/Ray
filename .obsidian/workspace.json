@@ -18,8 +18,23 @@
               "icon": "lucide-book-up",
               "title": "版本说明 1.9.14"
             }
+          },
+          {
+            "id": "3e6607a0bdc72fc7",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -228,8 +243,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3d5aecc5996560f0",
+  "active": "3e6607a0bdc72fc7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "04 Area/LLM/LLM.excalidraw.md",
     "02 Literature/Obsidian 快捷键.md",
     "MOC/快捷键总览.md",
@@ -257,7 +273,6 @@
     "Attachment/Pasted image 20250806083931.png",
     "03 Project/Project 占位.md",
     "04 Area/Compiler",
-    "conflict-files-obsidian-git.md",
     "06 Diary/Diary占位.md",
     "05 Archive/Archive占位.md",
     "05 Archive",
