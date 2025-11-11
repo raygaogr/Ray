@@ -11,30 +11,13 @@
             "id": "3d5aecc5996560f0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.14"
-            }
-          },
-          {
-            "id": "3e6607a0bdc72fc7",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -159,7 +142,7 @@
             }
           },
           {
-            "id": "c142b61852da038f",
+            "id": "7a6bb533fb209bc4",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -243,46 +226,47 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3e6607a0bdc72fc7",
+  "active": "3d5aecc5996560f0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "04 Area/LLM/LLM.excalidraw.md",
-    "02 Literature/Obsidian 快捷键.md",
-    "MOC/快捷键总览.md",
+    "Attachment/Canvas/Drawing _1.excalidraw.md",
+    "Attachment/Canvas/llama.cpp 源码解读.md",
+    "Attachment/Canvas/Matmul.excalidraw.md",
+    "Attachment/Canvas/SAM2 pipline.excalidraw.md",
     "Attachment/Canvas/Drawing 2024-07-26 14.48.24.excalidraw.md",
     "Attachment/Canvas/Drawing 2024-06-28 10.02.10.excalidraw.md",
     "Attachment/Canvas/Drawing 2024-01-08 19.56.00.excalidraw.md",
     "Attachment/Canvas/Drawing 2023-12-26 21.31.07.excalidraw.md",
     "Attachment/Canvas/Drawing _0.excalidraw.md",
-    "04 Area/Compiler/MLIR Concepts.md",
-    "04 Area/LLM",
-    "04 Area/Compiler/modern_compiler.excalidraw.md",
-    "01 Inbox/未命名.md",
-    "01 Inbox/未命名 1.md",
-    "01 Inbox/CUDA内存.md",
-    "Attachment/Pasted image 20250806102744.png",
-    "Attachment/Pasted image 20250806101741.png",
-    "01 Inbox/CUDA计算架构和调度.md",
-    "Attachment/Pasted image 20250806092311.png",
-    "Attachment/Pasted image 20250806085420.png",
-    "02 Literature/英语语法综述.md",
-    "01 Inbox/Probabilistic System Analysis and Applied Probability/Conditional Probability.md",
-    "01 Inbox/理解扩散模型.md",
-    "01 Inbox/矩阵乘法优化.md",
-    "01 Inbox/贝尔曼价值函数公式推导.md",
-    "Attachment/Pasted image 20250806083931.png",
-    "03 Project/Project 占位.md",
-    "04 Area/Compiler",
-    "06 Diary/Diary占位.md",
-    "05 Archive/Archive占位.md",
-    "05 Archive",
-    "04 Area/Mathematics/Drawing 2025-07-18 10.27.33.excalidraw.md",
-    "04 Area/Mathematics/多项式定理.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "04 Area/Mathematics/analysis.excalidraw.md",
     "04 Area/Mathematics/测量空间.md",
-    "Attachment/Pasted image 20240124095558.png",
-    "Excalidraw/Scripts/Downloaded/Uniform size.svg",
-    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
-    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
-    "Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg"
+    "04 Area/LLM/LLM.excalidraw.md",
+    "Attachment/image-20231219153717831.png",
+    "01 Inbox/矩阵乘法优化.md",
+    "01 Inbox/GEMM.md",
+    "01 Inbox/CUDA计算架构和调度.md",
+    "01 Inbox/CUDA内存.md",
+    "04 Area/Compiler/Creating and Using LLVM Modules.md",
+    "04 Area/Compiler/modern_compiler.excalidraw.md",
+    "04 Area/Compiler/MLIR Concepts.md",
+    "02 Literature/High Performance Zero-Memory Overhead Direct Convolutions.md",
+    "01 Inbox/Another SSE Intrinsics Approach.md",
+    "01 Inbox/Bellman equation.md",
+    "01 Inbox/Probabilistic System Analysis and Applied Probability/Probability Models.md",
+    "01 Inbox/Probabilistic System Analysis and Applied Probability/Conditional Probability.md",
+    "01 Inbox/SAM 3.md",
+    "Attachment/Pasted image 20251015191040.png",
+    "Attachment/Pasted image 20251015171421.png",
+    "Attachment/Pasted image 20251015161754.png",
+    "Attachment/Pasted image 20251014164624.png",
+    "Attachment/Pasted image 20251014100926.png",
+    "Attachment/Pasted image 20251014090827.png",
+    "Attachment/Pasted image 20251013161152.png",
+    "未命名",
+    "04 Area/LLM",
+    "Attachment/Pasted image 20250806102744.png",
+    "04 Area/Compiler",
+    "05 Archive"
   ]
 }
