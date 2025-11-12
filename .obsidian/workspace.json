@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Literature/Python前端绑定C++ Kernel.md",
+                "file": "01 Inbox/线程束规约.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Python前端绑定C++ Kernel"
+              "title": "线程束规约"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Literature/Python前端绑定C++ Kernel.md",
+                "file": "01 Inbox/线程束规约.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Python前端绑定C++ Kernel 的反向链接列表"
+              "title": "线程束规约 的反向链接列表"
             }
           },
           {
@@ -115,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Literature/Python前端绑定C++ Kernel.md",
+                "file": "01 Inbox/线程束规约.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Python前端绑定C++ Kernel 的出链列表"
+              "title": "线程束规约 的出链列表"
             }
           },
           {
@@ -149,7 +149,7 @@
             }
           },
           {
-            "id": "7a6bb533fb209bc4",
+            "id": "4fa22630af63c1d0",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Literature/Python前端绑定C++ Kernel.md",
+                "file": "01 Inbox/线程束规约.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python前端绑定C++ Kernel 的大纲"
+              "title": "线程束规约 的大纲"
             }
           }
         ],
@@ -236,16 +236,24 @@
   },
   "active": "3d5aecc5996560f0",
   "lastOpenFiles": [
-    "02 Literature/Python前端绑定C++ Kernel.md",
+    "Attachment/Canvas/__shfl_xor_sync函数.excalidraw.md",
+    "01 Inbox/线程束规约.md",
     "Attachment/Canvas/Drawing _1.excalidraw.md",
+    "Attachment/Canvas/Drawing _0.excalidraw.md",
     "Attachment/Canvas/llama.cpp 源码解读.md",
+    "02 Literature/Obsidian 快捷键.md",
+    "MOC/快捷键总览.md",
+    "01 Inbox/Drawing .excalidraw.md",
+    "01 Inbox/未命名 1.md",
+    "01 Inbox/理解扩散模型.md",
+    "01 Inbox/期望增量预估.md",
+    "02 Literature/Python前端绑定C++ Kernel.md",
     "Attachment/Canvas/Matmul.excalidraw.md",
     "Attachment/Canvas/SAM2 pipline.excalidraw.md",
     "Attachment/Canvas/Drawing 2024-07-26 14.48.24.excalidraw.md",
     "Attachment/Canvas/Drawing 2024-06-28 10.02.10.excalidraw.md",
     "Attachment/Canvas/Drawing 2024-01-08 19.56.00.excalidraw.md",
     "Attachment/Canvas/Drawing 2023-12-26 21.31.07.excalidraw.md",
-    "Attachment/Canvas/Drawing _0.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "04 Area/Mathematics/analysis.excalidraw.md",
@@ -256,14 +264,6 @@
     "01 Inbox/GEMM.md",
     "01 Inbox/CUDA计算架构和调度.md",
     "01 Inbox/CUDA内存.md",
-    "04 Area/Compiler/Creating and Using LLVM Modules.md",
-    "04 Area/Compiler/modern_compiler.excalidraw.md",
-    "04 Area/Compiler/MLIR Concepts.md",
-    "02 Literature/High Performance Zero-Memory Overhead Direct Convolutions.md",
-    "01 Inbox/Another SSE Intrinsics Approach.md",
-    "01 Inbox/Bellman equation.md",
-    "01 Inbox/Probabilistic System Analysis and Applied Probability/Probability Models.md",
-    "01 Inbox/Probabilistic System Analysis and Applied Probability/Conditional Probability.md",
     "Attachment/Pasted image 20251015191040.png",
     "Attachment/Pasted image 20251015171421.png",
     "Attachment/Pasted image 20251015161754.png",
