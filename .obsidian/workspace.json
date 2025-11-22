@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c963978b74dd011f",
+        "id": "b4b80e0cbe3491ff",
         "type": "tabs",
         "children": [
           {
-            "id": "755eb1e86386e591",
+            "id": "630d9ff46a1b5242",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "06 Diary/Diary占位.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Attachment/Canvas/CUDA调优.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Diary占位"
+              "icon": "excalidraw-icon",
+              "title": "CUDA调优.excalidraw"
             }
           }
         ],
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Diary/Diary占位.md",
+                "file": "Attachment/Canvas/CUDA调优.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Diary占位 的反向链接列表"
+              "title": "CUDA调优.excalidraw 的反向链接列表"
             }
           },
           {
@@ -115,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 Diary/Diary占位.md",
+                "file": "Attachment/Canvas/CUDA调优.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Diary占位 的出链列表"
+              "title": "CUDA调优.excalidraw 的出链列表"
             }
           },
           {
@@ -149,7 +146,7 @@
             }
           },
           {
-            "id": "a295a3371d2c45d9",
+            "id": "14fb57b1ad552e43",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -201,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Diary/Diary占位.md",
+                "file": "Attachment/Canvas/CUDA调优.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Diary占位 的大纲"
+              "title": "CUDA调优.excalidraw 的大纲"
             }
           }
         ],
@@ -219,6 +216,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -233,10 +231,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "755eb1e86386e591",
+  "active": "bde1b854a1bf33b8",
   "lastOpenFiles": [
-    "05 Archive/Archive占位.md",
+    "04 Area/未命名.md",
+    "Attachment/Canvas/CUDA调优.excalidraw.md",
+    "01 Inbox/未命名.md",
     "06 Diary/Diary占位.md",
+    "05 Archive/Archive占位.md",
     "03 Project/Project 占位.md",
     "06 Diary",
     "05 Archive",
@@ -270,9 +271,6 @@
     "04 Area/Mathematics/蕴含关系.md",
     "04 Area/Mathematics/蕴含.md",
     "04 Area/Mathematics/环.md",
-    "04 Area/Mathematics/群.md",
-    "04 Area/Mathematics/陪集.md",
-    "04 Area/Mathematics/多项式定理.md",
-    "04 Area/Mathematics/测量空间.md"
+    "04 Area/Mathematics/群.md"
   ]
 }
