@@ -11,12 +11,14 @@
             "id": "630d9ff46a1b5242",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Attachment/Canvas/CUDA调优.excalidraw.md"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "CUDA调优.excalidraw"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -93,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/Canvas/CUDA调优.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CUDA调优.excalidraw 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -112,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachment/Canvas/CUDA调优.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CUDA调优.excalidraw 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -198,13 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachment/Canvas/CUDA调优.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CUDA调优.excalidraw 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -231,10 +230,41 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bde1b854a1bf33b8",
+  "active": "630d9ff46a1b5242",
   "lastOpenFiles": [
-    "04 Area/未命名.md",
     "Attachment/Canvas/CUDA调优.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "Attachment/Pasted image 20251015191040.png",
+    "Attachment/Pasted image 20251015171421.png",
+    "Attachment/Pasted image 20251015161754.png",
+    "Attachment/Pasted image 20251014164624.png",
+    "Attachment/Pasted image 20251014100926.png",
+    "Attachment/Pasted image 20251014090827.png",
+    "Attachment/Pasted image 20251013161152.png",
+    "Attachment/Pasted image 20250806102744.png",
+    "Attachment/Pasted image 20250806101741.png",
+    "Attachment/Pasted image 20250806092311.png",
+    "Attachment/Canvas/llama.cpp 源码解读.md",
+    "Attachment/Canvas/__shfl_xor_sync函数.excalidraw.md",
+    "Attachment/Canvas/SAM2 pipline.excalidraw.md",
+    "Attachment/Canvas/Matmul.excalidraw.md",
+    "Attachment/Canvas/Drawing _1.excalidraw.md",
+    "04 Area/Mathematics/analysis.excalidraw.md",
+    "04 Area/LLM/LLM.excalidraw.md",
+    "04 Area/LLM",
+    "04 Area/Compiler/modern_compiler.excalidraw.md",
+    "04 Area/Compiler/MLIR Concepts.md",
+    "04 Area/Compiler/Creating and Using LLVM Modules.md",
+    "04 Area/Compiler",
+    "02 Literature/Python前端绑定C++ Kernel.md",
+    "01 Inbox/线程束规约.md",
+    "01 Inbox/goto.md",
+    "01 Inbox/SAM.md",
+    "01 Inbox/SAM 3.md",
+    "01 Inbox/SAM 2.md",
+    "01 Inbox/CUDA计算架构和调度.md",
+    "01 Inbox/CUDA内存.md",
+    "04 Area/未命名.md",
     "01 Inbox/未命名.md",
     "06 Diary/Diary占位.md",
     "05 Archive/Archive占位.md",
@@ -242,35 +272,6 @@
     "06 Diary",
     "05 Archive",
     "03 Project",
-    "Excalidraw/Scripts/Downloaded/Uniform size.svg",
-    "Excalidraw/Scripts/Downloaded/Uniform size.md",
-    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
-    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
-    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
-    "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
-    "Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
-    "Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.md",
-    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
-    "Excalidraw/Scripts/Downloaded/Palette loader.md",
-    "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
-    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
-    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
-    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
-    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
-    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
-    "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
-    "04 Area/Mathematics/Drawing 2025-07-18 10.27.33.excalidraw.md",
-    "04 Area/Mathematics/蕴含关系.md",
-    "04 Area/Mathematics/蕴含.md",
-    "04 Area/Mathematics/环.md",
-    "04 Area/Mathematics/群.md"
+    "Excalidraw/Scripts/Downloaded/Uniform size.md"
   ]
 }

@@ -5,7 +5,7 @@ date: 2024-12-11 17:02
 type:
 ---
 ---
-### \_mm_shuffle_pd
+###  \_mm_shuffle_pd
 
 ```c
 double a_c[2] = {1.0, 2.0};
@@ -30,6 +30,7 @@ movapd (array), %xmm // 从 array 地址开始加载 128 位到 xmm 寄存器中
 	• 要求内存地址是 16 字节对齐的。
 
 ### \_mm_setzero_pd
+
 用于将一个 128 位的 SIMD 寄存器置为全 0。
 在汇编中，它等价于使用指令 xorpd，将寄存器与自身进行按位异或运算，从而将其清零。
 ```c
