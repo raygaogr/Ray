@@ -18,8 +18,23 @@
               "icon": "excalidraw-icon",
               "title": "Drawing _6.excalidraw"
             }
+          },
+          {
+            "id": "417f423f248097b1",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/Canvas/Drawing _6.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Drawing _6.excalidraw 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -112,12 +126,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachment/Canvas/Drawing _6.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Drawing _6.excalidraw 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -198,13 +211,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachment/Canvas/Drawing _6.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing _6.excalidraw 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -231,15 +243,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bdef2005478864c8",
+  "active": "417f423f248097b1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Attachment/Canvas/Drawing _6.excalidraw.md",
+    "Attachment/Canvas/CUDA调优.excalidraw.md",
     "Attachment/Pasted Image 20251204153559_023.png",
     "Attachment/Pasted Image 20251204152959_818.png",
     "Attachment/Pasted Image 20251204152941_433.png",
     "Attachment/Pasted Image 20251204150622_702.png",
     "Attachment/Pasted Image 20251204150600_932.png",
     "Attachment/Canvas/Drawing _3.excalidraw.md",
-    "Attachment/Canvas/Drawing _6.excalidraw.md",
     "Attachment/Canvas/Drawing _2.excalidraw.md",
     "Attachment/Canvas/Drawing _1.excalidraw.md",
     "Attachment/Canvas/Drawing _0.excalidraw.md",
@@ -251,7 +265,6 @@
     "Attachment/Pasted Image 20251204142242_600.png",
     "Attachment/Canvas/Drawing _4.excalidraw.md",
     "Attachment/Pasted Image 20251204112453_149.png",
-    "Attachment/Pasted Image 20251204111732_676.png",
     "Attachment/Canvas/Drawing .excalidraw.md",
     "01 Inbox/Bank Conflict.md",
     "Attachment/Canvas/一站式AI标注架构设计.excalidraw.md",
@@ -268,8 +281,6 @@
     "Attachment/Canvas/SAM2 pipline.excalidraw.md",
     "01 Inbox/CUDA内存.md",
     "01 Inbox/GEMM Macro Kernel.md",
-    "01 Inbox/GEMM.md",
-    "未命名",
     "04 Area/LLM",
     "04 Area/Compiler",
     "05 Archive"
