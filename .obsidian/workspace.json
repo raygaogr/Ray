@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdef2005478864c8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Attachment/Canvas/Drawing _6.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing _6.excalidraw"
-            }
-          },
-          {
-            "id": "417f423f248097b1",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
             "id": "8e4daa317d78e3d6",
             "type": "leaf",
             "state": {
@@ -48,7 +22,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -257,7 +230,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8e4daa317d78e3d6",
+  "active": "7f3a140f5220a922",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Attachment/Canvas/Drawing _6.excalidraw.md",
