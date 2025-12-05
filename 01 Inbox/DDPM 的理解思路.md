@@ -16,7 +16,7 @@ $\mathbf{X_0}$  表示原图；
 $\mathbf{X_T}$ 是隐变量，形式上是一个高斯白噪声，即$\mathbf{X_T} \sim \mathcal{N}(\mathbf{0}, \mathbf{I})$ ;
 $\mathbf{X_{t-1}}$  是中间隐变量；
 
-上面的结构是一个双向的操作，其中可以把中间每步看成是一个独立的[VAE](VAE.md)， 所有的`Encoder` 组合在一起理解成最终的`Encoder` , `Decoder` 同理。
+上面的结构是一个双向的操作，其中可以把中间每步看成是一个独立的[VAE 存在的问题](VAE%20存在的问题.md)， 所有的`Encoder` 组合在一起理解成最终的`Encoder` , `Decoder` 同理。
 
 ## 基础的Block
 ### Transition Block

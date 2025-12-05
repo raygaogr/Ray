@@ -8,18 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d5aecc5996560f0",
+            "id": "bdef2005478864c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "01 Inbox/线程束规约.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Attachment/Canvas/Drawing _6.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "线程束规约"
+              "icon": "excalidraw-icon",
+              "title": "Drawing _6.excalidraw"
             }
           }
         ],
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Inbox/线程束规约.md",
+                "file": "Attachment/Canvas/Drawing _6.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "线程束规约 的反向链接列表"
+              "title": "Drawing _6.excalidraw 的反向链接列表"
             }
           },
           {
@@ -115,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Inbox/线程束规约.md",
+                "file": "Attachment/Canvas/Drawing _6.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "线程束规约 的出链列表"
+              "title": "Drawing _6.excalidraw 的出链列表"
             }
           },
           {
@@ -149,7 +146,7 @@
             }
           },
           {
-            "id": "4fa22630af63c1d0",
+            "id": "7f3a140f5220a922",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -201,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Inbox/线程束规约.md",
+                "file": "Attachment/Canvas/Drawing _6.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "线程束规约 的大纲"
+              "title": "Drawing _6.excalidraw 的大纲"
             }
           }
         ],
@@ -234,46 +231,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3d5aecc5996560f0",
+  "active": "bdef2005478864c8",
   "lastOpenFiles": [
-    "Attachment/Canvas/__shfl_xor_sync函数.excalidraw.md",
-    "01 Inbox/线程束规约.md",
+    "Attachment/Pasted Image 20251204153559_023.png",
+    "Attachment/Pasted Image 20251204152959_818.png",
+    "Attachment/Pasted Image 20251204152941_433.png",
+    "Attachment/Pasted Image 20251204150622_702.png",
+    "Attachment/Pasted Image 20251204150600_932.png",
+    "Attachment/Canvas/Drawing _3.excalidraw.md",
+    "Attachment/Canvas/Drawing _6.excalidraw.md",
+    "Attachment/Canvas/Drawing _2.excalidraw.md",
     "Attachment/Canvas/Drawing _1.excalidraw.md",
     "Attachment/Canvas/Drawing _0.excalidraw.md",
-    "Attachment/Canvas/llama.cpp 源码解读.md",
-    "02 Literature/Obsidian 快捷键.md",
-    "MOC/快捷键总览.md",
-    "01 Inbox/Drawing .excalidraw.md",
-    "01 Inbox/未命名 1.md",
-    "01 Inbox/理解扩散模型.md",
-    "01 Inbox/期望增量预估.md",
-    "02 Literature/Python前端绑定C++ Kernel.md",
-    "Attachment/Canvas/Matmul.excalidraw.md",
-    "Attachment/Canvas/SAM2 pipline.excalidraw.md",
-    "Attachment/Canvas/Drawing 2024-07-26 14.48.24.excalidraw.md",
-    "Attachment/Canvas/Drawing 2024-06-28 10.02.10.excalidraw.md",
-    "Attachment/Canvas/Drawing 2024-01-08 19.56.00.excalidraw.md",
+    "Attachment/Canvas/__shfl_xor_sync函数.excalidraw.md",
+    "Attachment/Canvas/Drawing _5.excalidraw.md",
+    "Attachment/Pasted Image 20251204142905_286.png",
+    "Attachment/Pasted Image 20251204142731_017.png",
+    "Attachment/Pasted Image 20251204142445_388.png",
+    "Attachment/Pasted Image 20251204142242_600.png",
+    "Attachment/Canvas/Drawing _4.excalidraw.md",
+    "Attachment/Pasted Image 20251204112453_149.png",
+    "Attachment/Pasted Image 20251204111732_676.png",
+    "Attachment/Canvas/Drawing .excalidraw.md",
+    "01 Inbox/Bank Conflict.md",
+    "Attachment/Canvas/一站式AI标注架构设计.excalidraw.md",
     "Attachment/Canvas/Drawing 2023-12-26 21.31.07.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "04 Area/Mathematics/analysis.excalidraw.md",
-    "04 Area/Mathematics/测量空间.md",
-    "04 Area/LLM/LLM.excalidraw.md",
-    "Attachment/image-20231219153717831.png",
-    "01 Inbox/矩阵乘法优化.md",
-    "01 Inbox/GEMM.md",
-    "01 Inbox/CUDA计算架构和调度.md",
+    "Attachment/Canvas/Drawing 2024-01-08 19.56.00.excalidraw.md",
+    "Attachment/Canvas/Drawing 2024-06-28 10.02.10.excalidraw.md",
+    "Attachment/Canvas/Drawing 2024-07-26 14.48.24.excalidraw.md",
+    "03 Project/AI_ANNOTATION_PLATFORM_PPT.md",
+    "01 Inbox/VAE 存在的问题.md",
+    "Attachment/Canvas/CUTLASS.excalidraw.md",
+    "Attachment/Canvas/ThreadblockShape.md",
+    "Attachment/Canvas/Matmul.excalidraw.md",
+    "01 Inbox/llama.cpp 源码解读.md",
+    "Attachment/Canvas/SAM2 pipline.excalidraw.md",
     "01 Inbox/CUDA内存.md",
-    "Attachment/Pasted image 20251015191040.png",
-    "Attachment/Pasted image 20251015171421.png",
-    "Attachment/Pasted image 20251015161754.png",
-    "Attachment/Pasted image 20251014164624.png",
-    "Attachment/Pasted image 20251014100926.png",
-    "Attachment/Pasted image 20251014090827.png",
-    "Attachment/Pasted image 20251013161152.png",
+    "01 Inbox/GEMM Macro Kernel.md",
+    "01 Inbox/GEMM.md",
     "未命名",
     "04 Area/LLM",
-    "Attachment/Pasted image 20250806102744.png",
     "04 Area/Compiler",
     "05 Archive"
   ]
