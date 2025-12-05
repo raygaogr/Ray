@@ -25,6 +25,20 @@
             "state": {
               "type": "split-diff-view",
               "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "8e4daa317d78e3d6",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
                 "aFile": "conflict-files-obsidian-git.md",
                 "bFile": "conflict-files-obsidian-git.md",
                 "aRef": ""
@@ -34,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -243,7 +257,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "417f423f248097b1",
+  "active": "8e4daa317d78e3d6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Attachment/Canvas/Drawing _6.excalidraw.md",
@@ -281,6 +295,7 @@
     "Attachment/Canvas/SAM2 pipline.excalidraw.md",
     "01 Inbox/CUDA内存.md",
     "01 Inbox/GEMM Macro Kernel.md",
+    "未命名",
     "04 Area/LLM",
     "04 Area/Compiler",
     "05 Archive"
