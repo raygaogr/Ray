@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b80e0cbe3491ff",
+        "id": "81c3ce398a17ed32",
         "type": "tabs",
         "children": [
           {
-            "id": "8e4daa317d78e3d6",
+            "id": "39e46a66e70ba07f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "01 Inbox/设计模式原则.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "设计模式原则"
             }
           }
         ],
@@ -95,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Inbox/设计模式原则.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "设计模式原则 的反向链接列表"
             }
           },
           {
@@ -113,11 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 Inbox/设计模式原则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "设计模式原则 的出链列表"
             }
           },
           {
@@ -146,7 +149,7 @@
             }
           },
           {
-            "id": "7f3a140f5220a922",
+            "id": "98fdc7fc9662017b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -198,12 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01 Inbox/设计模式原则.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "设计模式原则 的大纲"
             }
           }
         ],
@@ -215,7 +219,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -230,44 +234,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7f3a140f5220a922",
+  "active": "39e46a66e70ba07f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Attachment/Canvas/Drawing _6.excalidraw.md",
-    "Attachment/Canvas/CUDA调优.excalidraw.md",
+    "01 Inbox/设计模式原则.md",
+    "Attachment/Canvas/Drawing .excalidraw.md",
+    "04 Area/Compiler/TPU-MLIR 源码阅读.md",
+    "01 Inbox/使用pybind11构建c++的python binding.md",
+    "Attachment/Canvas/tpu-mlir.excalidraw.md",
+    "Attachment/Canvas/Drawing _3.excalidraw.md",
+    "Attachment/Canvas/Drawing _2.excalidraw.md",
+    "Attachment/Canvas/Drawing _0.excalidraw.md",
+    "Attachment/Canvas/llamacpp.excalidraw.md",
+    "01 Inbox/llama.cpp 源码解读.md",
+    "Attachment/Canvas/Drawing _4.excalidraw.md",
+    "Attachment/Canvas/3DCloud.excalidraw.md",
+    "Attachment/Canvas/CUTLASS.excalidraw.md",
+    "Attachment/Canvas/classroom.excalidraw.md",
+    "Attachment/Canvas/Drawing 2024-01-08 19.56.00.excalidraw.md",
+    "04 Area/Compiler/MLIR Attributes 和 Types 生成.md",
+    "01 Inbox/基本概念.md",
+    "01 Inbox/期望增量预估.md",
+    "01 Inbox/理解扩散模型.md",
+    "01 Inbox/矩阵乘法优化.md",
+    "01 Inbox/线程束规约.md",
+    "01 Inbox/贝尔曼价值函数公式推导.md",
+    "01 Inbox/述职大纲.md",
+    "01 Inbox/Naive Use of SSE Intrinsics.md",
+    "01 Inbox/GEMM.md",
+    "01 Inbox/DDPM 的理解思路.md",
+    "Attachment/Pasted image 20241021225817.png",
+    "Attachment/Pasted image 20240716205023.png",
+    "Attachment/Pasted image 20240716201359.png",
+    "Attachment/Pasted image 20240124103620.png",
+    "Attachment/Pasted image 20240124095716.png",
+    "Attachment/Pasted image 20240124095558.png",
+    "Attachment/image-20231219153717831.png",
     "Attachment/Pasted Image 20251204153559_023.png",
     "Attachment/Pasted Image 20251204152959_818.png",
     "Attachment/Pasted Image 20251204152941_433.png",
-    "Attachment/Pasted Image 20251204150622_702.png",
-    "Attachment/Pasted Image 20251204150600_932.png",
-    "Attachment/Canvas/Drawing _3.excalidraw.md",
-    "Attachment/Canvas/Drawing _2.excalidraw.md",
-    "Attachment/Canvas/Drawing _1.excalidraw.md",
-    "Attachment/Canvas/Drawing _0.excalidraw.md",
-    "Attachment/Canvas/__shfl_xor_sync函数.excalidraw.md",
-    "Attachment/Canvas/Drawing _5.excalidraw.md",
-    "Attachment/Pasted Image 20251204142905_286.png",
-    "Attachment/Pasted Image 20251204142731_017.png",
-    "Attachment/Pasted Image 20251204142445_388.png",
-    "Attachment/Pasted Image 20251204142242_600.png",
-    "Attachment/Canvas/Drawing _4.excalidraw.md",
-    "Attachment/Pasted Image 20251204112453_149.png",
-    "Attachment/Canvas/Drawing .excalidraw.md",
-    "01 Inbox/Bank Conflict.md",
-    "Attachment/Canvas/一站式AI标注架构设计.excalidraw.md",
-    "Attachment/Canvas/Drawing 2023-12-26 21.31.07.excalidraw.md",
-    "Attachment/Canvas/Drawing 2024-01-08 19.56.00.excalidraw.md",
-    "Attachment/Canvas/Drawing 2024-06-28 10.02.10.excalidraw.md",
-    "Attachment/Canvas/Drawing 2024-07-26 14.48.24.excalidraw.md",
-    "03 Project/AI_ANNOTATION_PLATFORM_PPT.md",
-    "01 Inbox/VAE 存在的问题.md",
-    "Attachment/Canvas/CUTLASS.excalidraw.md",
-    "Attachment/Canvas/ThreadblockShape.md",
-    "Attachment/Canvas/Matmul.excalidraw.md",
-    "01 Inbox/llama.cpp 源码解读.md",
-    "Attachment/Canvas/SAM2 pipline.excalidraw.md",
-    "01 Inbox/CUDA内存.md",
-    "01 Inbox/GEMM Macro Kernel.md",
     "未命名",
     "04 Area/LLM",
     "04 Area/Compiler",
