@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "81c3ce398a17ed32",
+        "id": "b4b80e0cbe3491ff",
         "type": "tabs",
         "children": [
           {
-            "id": "39e46a66e70ba07f",
+            "id": "3d5aecc5996560f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "01 Inbox/设计模式原则.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Attachment/Canvas/Matmul.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "设计模式原则"
+              "icon": "excalidraw-icon",
+              "title": "Matmul.excalidraw"
             }
           }
         ],
@@ -76,7 +73,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Inbox/设计模式原则.md",
+                "file": "Attachment/Canvas/Matmul.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "设计模式原则 的反向链接列表"
+              "title": "Matmul.excalidraw 的反向链接列表"
             }
           },
           {
@@ -115,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Inbox/设计模式原则.md",
+                "file": "Attachment/Canvas/Matmul.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "设计模式原则 的出链列表"
+              "title": "Matmul.excalidraw 的出链列表"
             }
           },
           {
@@ -149,7 +147,7 @@
             }
           },
           {
-            "id": "98fdc7fc9662017b",
+            "id": "83f85db3b519d743",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -201,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Inbox/设计模式原则.md",
+                "file": "Attachment/Canvas/Matmul.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "设计模式原则 的大纲"
+              "title": "Matmul.excalidraw 的大纲"
             }
           }
         ],
@@ -234,34 +232,36 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "39e46a66e70ba07f",
+  "active": "adca8496c2c360df",
   "lastOpenFiles": [
-    "01 Inbox/设计模式原则.md",
-    "Attachment/Canvas/Drawing .excalidraw.md",
-    "04 Area/Compiler/TPU-MLIR 源码阅读.md",
-    "01 Inbox/使用pybind11构建c++的python binding.md",
-    "Attachment/Canvas/tpu-mlir.excalidraw.md",
-    "Attachment/Canvas/Drawing _3.excalidraw.md",
-    "Attachment/Canvas/Drawing _2.excalidraw.md",
-    "Attachment/Canvas/Drawing _0.excalidraw.md",
-    "Attachment/Canvas/llamacpp.excalidraw.md",
-    "01 Inbox/llama.cpp 源码解读.md",
-    "Attachment/Canvas/Drawing _4.excalidraw.md",
-    "Attachment/Canvas/3DCloud.excalidraw.md",
-    "Attachment/Canvas/CUTLASS.excalidraw.md",
-    "Attachment/Canvas/classroom.excalidraw.md",
-    "Attachment/Canvas/Drawing 2024-01-08 19.56.00.excalidraw.md",
-    "04 Area/Compiler/MLIR Attributes 和 Types 生成.md",
-    "01 Inbox/基本概念.md",
-    "01 Inbox/期望增量预估.md",
-    "01 Inbox/理解扩散模型.md",
-    "01 Inbox/矩阵乘法优化.md",
-    "01 Inbox/线程束规约.md",
-    "01 Inbox/贝尔曼价值函数公式推导.md",
-    "01 Inbox/述职大纲.md",
+    "01 Inbox/PTX 指令学习.md",
+    "02 Literature/zhangHighPerformanceZeroMemory2018.md",
+    "01 Inbox/Policy Gradient算法.md",
+    "01 Inbox/oneDNN for Windows.md",
     "01 Inbox/Naive Use of SSE Intrinsics.md",
-    "01 Inbox/GEMM.md",
+    "01 Inbox/llama.cpp 源码解读.md",
     "01 Inbox/DDPM 的理解思路.md",
+    "01 Inbox/ChatGPT-API-KEY.md",
+    "01 Inbox/CUDA计算架构和调度.md",
+    "01 Inbox/CUDA内存.md",
+    "01 Inbox/Bellman最优公式.md",
+    "01 Inbox/Bellman equation.md",
+    "01 Inbox/Another SSE Intrinsics Approach.md",
+    "01 Inbox/Bank Conflict.md",
+    "01 Inbox/ISA.md",
+    "01 Inbox/goto.md",
+    "01 Inbox/Improving Pipelining.md",
+    "01 Inbox/未命名.base",
+    "01 Inbox/未命名 1.base",
+    "Attachment/Canvas/FlashAttention.excalidraw.md",
+    "01 Inbox/Swizzle.md",
+    "01 Inbox/期望增量预估.md",
+    "04 Area/Mathematics/analysis.excalidraw.md",
+    "04 Area/Mathematics/函数.md",
+    "02 Literature/Design and Implementation of Deep Learning 2D Convolutions on modern CPUs.md",
+    "02 Literature/High Performance Zero-Memory Overhead Direct Convolutions.md",
+    "01 Inbox/VAE 存在的问题.md",
+    "01 Inbox/述职大纲.md",
     "Attachment/Pasted image 20241021225817.png",
     "Attachment/Pasted image 20240716205023.png",
     "Attachment/Pasted image 20240716201359.png",
