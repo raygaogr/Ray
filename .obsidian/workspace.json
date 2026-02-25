@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "630d9ff46a1b5242",
+            "id": "3d5aecc5996560f0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "release-notes",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "currentVersion": "1.11.5"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
             }
           }
         ],
@@ -146,7 +144,7 @@
             }
           },
           {
-            "id": "14fb57b1ad552e43",
+            "id": "9f698ea65652928e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -215,7 +213,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -230,9 +228,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "630d9ff46a1b5242",
+  "active": "3d5aecc5996560f0",
   "lastOpenFiles": [
+    "Attachment/Canvas/Drawing 2024-01-08 19.56.00.excalidraw.md",
+    "Attachment/Canvas/Drawing 2024-07-26 14.48.24.excalidraw.md",
+    "Attachment/Canvas/Drawing 2024-06-28 10.02.10.excalidraw.md",
+    "Attachment/Canvas/SAM2 pipline.excalidraw.md",
+    "Attachment/Canvas/Matmul.excalidraw.md",
+    "Attachment/Canvas/llamacpp.excalidraw.md",
+    "01 Inbox/llama.cpp 源码解读.md",
+    "Attachment/Canvas/算法评估方案.excalidraw.md",
+    "Attachment/Canvas/classroom.excalidraw.md",
     "Attachment/Canvas/CUDA调优.excalidraw.md",
+    "04 Area/Mathematics/analysis.excalidraw.md",
+    "04 Area/Mathematics/函数.md",
+    "04 Area/LLM/LLM.excalidraw.md",
+    "04 Area/Compiler/modern_compiler.excalidraw.md",
+    "04 Area/Compiler/MLIR Concepts.md",
+    "04 Area/Compiler/Creating and Using LLVM Modules.md",
+    "03 Project/Project 占位.md",
+    "Attachment/Canvas/__shfl_xor_sync函数.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Attachment/Pasted image 20251015191040.png",
     "Attachment/Pasted image 20251015171421.png",
@@ -244,17 +259,7 @@
     "Attachment/Pasted image 20250806102744.png",
     "Attachment/Pasted image 20250806101741.png",
     "Attachment/Pasted image 20250806092311.png",
-    "Attachment/Canvas/llama.cpp 源码解读.md",
-    "Attachment/Canvas/__shfl_xor_sync函数.excalidraw.md",
-    "Attachment/Canvas/SAM2 pipline.excalidraw.md",
-    "Attachment/Canvas/Matmul.excalidraw.md",
-    "Attachment/Canvas/Drawing _1.excalidraw.md",
-    "04 Area/Mathematics/analysis.excalidraw.md",
-    "04 Area/LLM/LLM.excalidraw.md",
     "04 Area/LLM",
-    "04 Area/Compiler/modern_compiler.excalidraw.md",
-    "04 Area/Compiler/MLIR Concepts.md",
-    "04 Area/Compiler/Creating and Using LLVM Modules.md",
     "04 Area/Compiler",
     "02 Literature/Python前端绑定C++ Kernel.md",
     "01 Inbox/线程束规约.md",
@@ -263,15 +268,8 @@
     "01 Inbox/SAM 3.md",
     "01 Inbox/SAM 2.md",
     "01 Inbox/CUDA计算架构和调度.md",
-    "01 Inbox/CUDA内存.md",
-    "04 Area/未命名.md",
-    "01 Inbox/未命名.md",
-    "06 Diary/Diary占位.md",
-    "05 Archive/Archive占位.md",
-    "03 Project/Project 占位.md",
     "06 Diary",
     "05 Archive",
-    "03 Project",
-    "Excalidraw/Scripts/Downloaded/Uniform size.md"
+    "03 Project"
   ]
 }
