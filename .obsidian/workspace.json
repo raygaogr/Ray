@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "MLIR Attributes 生成"
             }
+          },
+          {
+            "id": "665ebcba8e587f3e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -96,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Area/Compiler/MLIR Attributes 生成.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "MLIR Attributes 生成 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -115,12 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Area/Compiler/MLIR Attributes 生成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "MLIR Attributes 生成 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -201,13 +214,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Area/Compiler/MLIR Attributes 生成.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MLIR Attributes 生成 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -234,11 +246,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3d5aecc5996560f0",
+  "active": "665ebcba8e587f3e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "04 Area/Compiler/MLIR Attributes 生成.md",
     "04 Area/Compiler/MLIR Types 生成.md",
     "04 Area/Compiler/MLIR Dialect生成.md",
-    "04 Area/Compiler/MLIR Attributes 生成.md",
     "04 Area/Compiler/MLIR Pass生成.md",
     "04 Area/Compiler/未命名看板.md",
     "04 Area/Compiler/Creating and Using LLVM Modules.md",
@@ -263,7 +276,6 @@
     "01 Inbox/CuTe Tensor.md",
     "01 Inbox/Cute Layouts.md",
     "Attachment/Canvas/FlashAttention.excalidraw.md",
-    "Attachment/Canvas/__shfl_xor_sync函数.excalidraw.md",
     "01 Inbox/未命名.base",
     "01 Inbox/未命名 1.base",
     "Attachment/Pasted image 20241021225817.png",
