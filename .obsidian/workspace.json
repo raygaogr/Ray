@@ -11,12 +11,15 @@
             "id": "3d5aecc5996560f0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Attachment/Canvas/Matmul.excalidraw.md"
+                "file": "04 Area/Compiler/MLIR Attributes 生成.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Matmul.excalidraw"
+              "icon": "lucide-file",
+              "title": "MLIR Attributes 生成"
             }
           }
         ],
@@ -52,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#binding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +76,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/Canvas/Matmul.excalidraw.md",
+                "file": "04 Area/Compiler/MLIR Attributes 生成.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Matmul.excalidraw 的反向链接列表"
+              "title": "MLIR Attributes 生成 的反向链接列表"
             }
           },
           {
@@ -113,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachment/Canvas/Matmul.excalidraw.md",
+                "file": "04 Area/Compiler/MLIR Attributes 生成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Matmul.excalidraw 的出链列表"
+              "title": "MLIR Attributes 生成 的出链列表"
             }
           },
           {
@@ -147,7 +149,7 @@
             }
           },
           {
-            "id": "83f85db3b519d743",
+            "id": "7e125cc952b4631e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -199,17 +201,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachment/Canvas/Matmul.excalidraw.md",
+                "file": "04 Area/Compiler/MLIR Attributes 生成.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Matmul.excalidraw 的大纲"
+              "title": "MLIR Attributes 生成 的大纲"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -232,36 +234,38 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "adca8496c2c360df",
+  "active": "3d5aecc5996560f0",
   "lastOpenFiles": [
-    "01 Inbox/PTX 指令学习.md",
-    "02 Literature/zhangHighPerformanceZeroMemory2018.md",
-    "01 Inbox/Policy Gradient算法.md",
-    "01 Inbox/oneDNN for Windows.md",
-    "01 Inbox/Naive Use of SSE Intrinsics.md",
-    "01 Inbox/llama.cpp 源码解读.md",
-    "01 Inbox/DDPM 的理解思路.md",
-    "01 Inbox/ChatGPT-API-KEY.md",
-    "01 Inbox/CUDA计算架构和调度.md",
+    "04 Area/Compiler/MLIR Types 生成.md",
+    "04 Area/Compiler/MLIR Dialect生成.md",
+    "04 Area/Compiler/MLIR Attributes 生成.md",
+    "04 Area/Compiler/MLIR Pass生成.md",
+    "04 Area/Compiler/未命名看板.md",
+    "04 Area/Compiler/Creating and Using LLVM Modules.md",
+    "04 Area/Compiler/MLIR Concepts.md",
+    "04 Area/Compiler/MLIR 项目构建.md",
+    "04 Area/Compiler/modern_compiler.excalidraw.md",
     "01 Inbox/CUDA内存.md",
-    "01 Inbox/Bellman最优公式.md",
-    "01 Inbox/Bellman equation.md",
-    "01 Inbox/Another SSE Intrinsics Approach.md",
-    "01 Inbox/Bank Conflict.md",
-    "01 Inbox/ISA.md",
-    "01 Inbox/goto.md",
-    "01 Inbox/Improving Pipelining.md",
+    "01 Inbox/Unified and System Memory.md",
+    "01 Inbox/CUDA Stream.md",
+    "Attachment/Canvas/llama.cpp.excalidraw.md",
+    "01 Inbox/CUDA Graph.md",
+    "01 Inbox/llama.cpp 源码阅读.md",
+    "Attachment/Canvas/MLA.excalidraw.md",
+    "Attachment/Canvas/Drawing _0.excalidraw.md",
+    "Attachment/Canvas/llamacpp.excalidraw.md",
+    "01 Inbox/llama.cpp 源码解读.md",
+    "[[Attachment/Canvas/Drawing .excalidraw.md",
+    "[[Attachment/Canvas",
+    "[[Attachment",
+    "Attachment/Canvas/CUTLASS.excalidraw.md",
+    "01 Inbox/昇腾培训课程.md",
+    "01 Inbox/CuTe Tensor.md",
+    "01 Inbox/Cute Layouts.md",
+    "Attachment/Canvas/FlashAttention.excalidraw.md",
+    "Attachment/Canvas/__shfl_xor_sync函数.excalidraw.md",
     "01 Inbox/未命名.base",
     "01 Inbox/未命名 1.base",
-    "Attachment/Canvas/FlashAttention.excalidraw.md",
-    "01 Inbox/Swizzle.md",
-    "01 Inbox/期望增量预估.md",
-    "04 Area/Mathematics/analysis.excalidraw.md",
-    "04 Area/Mathematics/函数.md",
-    "02 Literature/Design and Implementation of Deep Learning 2D Convolutions on modern CPUs.md",
-    "02 Literature/High Performance Zero-Memory Overhead Direct Convolutions.md",
-    "01 Inbox/VAE 存在的问题.md",
-    "01 Inbox/述职大纲.md",
     "Attachment/Pasted image 20241021225817.png",
     "Attachment/Pasted image 20240716205023.png",
     "Attachment/Pasted image 20240716201359.png",

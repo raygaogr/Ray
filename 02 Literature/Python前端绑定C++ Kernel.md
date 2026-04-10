@@ -1,6 +1,6 @@
 ---
 tags:
-  - binding
+  - PythonBinding
 title: Python前端绑定C++ Kernel
 date: 2025-11-11 09:24
 type: permanent-note

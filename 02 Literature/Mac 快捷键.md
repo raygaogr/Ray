@@ -1,6 +1,6 @@
 ---
 tags:
-  - shortcut
+  - Shortcut
   - Mac
 title: Mac 快捷键
 date: 2023-12-26 14:35

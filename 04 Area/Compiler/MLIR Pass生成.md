@@ -1,7 +1,7 @@
 ---
 tags:
   - MLIR
-  - compiler
+  - Compiler
 title: MLIR Pass生成
 date: 2026-01-05 10:35
 type: permanent-note

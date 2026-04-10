@@ -1,7 +1,7 @@
 ---
 tags:
   - MLIR
-  - compiler
+  - Compiler
 title: MLIR Concepts
 date: 2025-08-04 10:44
 type: permanent-note
