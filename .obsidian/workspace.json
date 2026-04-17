@@ -11,12 +11,14 @@
             "id": "3d5aecc5996560f0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Attachment/Canvas/tpu-mlir.excalidraw.md"
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "tpu-mlir.excalidraw"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ],
@@ -93,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/Canvas/tpu-mlir.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "tpu-mlir.excalidraw 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -112,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachment/Canvas/tpu-mlir.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "tpu-mlir.excalidraw 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -198,13 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachment/Canvas/tpu-mlir.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "tpu-mlir.excalidraw 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -233,12 +232,28 @@
   },
   "active": "3d5aecc5996560f0",
   "lastOpenFiles": [
+    "Attachment/Canvas/tpu-mlir.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "Attachment/Canvas/llama.cpp.excalidraw.md",
+    "Attachment/Canvas/MLA.excalidraw.md",
+    "04 Area/Compiler/MLIR Types 生成.md",
+    "04 Area/Compiler/MLIR Pass 生成.md",
+    "04 Area/Compiler/MLIR Opt 生成.md",
+    "04 Area/Compiler/MLIR Operations 生成.md",
+    "04 Area/Compiler/MLIR Interfaces 生成.md",
+    "04 Area/Compiler/MLIR Attributes 生成.md",
+    "01 Inbox/昇腾培训课程.md",
+    "01 Inbox/llama.cpp 源码阅读.md",
+    "01 Inbox/Unified and System Memory.md",
+    "01 Inbox/Cute Layouts.md",
+    "01 Inbox/CuTe Tensor.md",
+    "01 Inbox/CUDA Stream.md",
+    "01 Inbox/CUDA Graph.md",
     "04 Area/Compiler/Creating and Using LLVM Modules.md",
     "04 Area/Compiler/TPU-MLIR 源码阅读.md",
     "04 Area/Mathematics/线性映射.md",
     "01 Inbox/未命名.md",
     "Attachment/Canvas/算法评估方案.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Attachment/Pasted Image 20251204153559_023.png",
     "Attachment/Pasted Image 20251204152959_818.png",
     "Attachment/Pasted Image 20251204152941_433.png",
@@ -250,25 +265,9 @@
     "Attachment/Pasted Image 20251204142242_600.png",
     "Attachment/Pasted Image 20251204112453_149.png",
     "Attachment/Canvas/一站式AI标注架构设计.excalidraw.md",
-    "Attachment/Canvas/tpu-mlir.excalidraw.md",
     "Attachment/Canvas/YOLOE.excalidraw.md",
     "Attachment/Canvas/SAM3.excalidraw.md",
     "Attachment/Canvas/Probability.excalidraw.md",
-    "Attachment/Canvas/FlashAttention.excalidraw.md",
-    "Attachment/Canvas/DetectAnything.excalidraw.md",
-    "Attachment/Canvas/CUTLASS.excalidraw.md",
-    "Attachment/Canvas/BankConflict.excalidraw.md",
-    "Attachment/Canvas/3DCloud.excalidraw.md",
-    "04 Area/Compiler/MLIR 项目构建.md",
-    "04 Area/Compiler/MLIR Pass生成.md",
-    "04 Area/Compiler/MLIR Dialect生成.md",
-    "04 Area/Compiler/MLIR Attributes 和 Types 生成.md",
-    "01 Inbox/述职大纲.md",
-    "01 Inbox/设计模式原则.md",
-    "01 Inbox/使用pybind11构建c++的python binding.md",
-    "01 Inbox/VAE 存在的问题.md",
-    "01 Inbox/TPU-MLIR 前端.md",
-    "01 Inbox/Swizzle.md",
     "04 Area/LLM",
     "04 Area/Compiler",
     "06 Diary",

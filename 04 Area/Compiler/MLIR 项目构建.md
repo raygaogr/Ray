@@ -1,15 +1,15 @@
 ---
 tags:
   - MLIR
-  - compiler
+  - Compiler
 title: MLIR 项目构建
 date: 2026-01-05 08:48
 type: permanent-note
 ---
 ---
-## CMake 构建
-### 1、项目的层次结构
-一个 MLIR 项目通常包含以下的层次结构：
+
+## 一、项目的层次结构
+用 CMake 构建一个 MLIR 项目时，通常包含以下的层次结构：
 ```python
 ├──include/
 |  ├──Dialect/
@@ -35,7 +35,7 @@ type: permanent-note
 |  |  ├──Passes.td
 |  |  └──CMakeLists.txt
 |  └──CMakeLists.txt
-└──src/
+├──src/
 |  ├──Dialect/
 |  |  ├──Dialect1/
 |  |  |  └──Dialect1.cpp
@@ -55,7 +55,7 @@ type: permanent-note
 |  └──CMakeLists.txt  
 └──CMakeLists.txt
 ```
-### 2、根目录下的 CMakeLists 文件
+## 二、根目录下的 CMakeLists 文件
 ```python
 cmake_minimum_required(VERSION 3.20.0)
 project(name1 LANGUAGES CXX C)
@@ -65,15 +65,19 @@ set(CMAKE_CXX_STANDARD 17)
 set(LLVM_DIR /path/to/llvmConfig.cmake)
 set(MLIR_DIR /path/to/mlirConfig.cmake)
 find_package(MLIR REQUIRED CONFIG)
+
+# 将 MLIR 和 LLVM 的 CMake 模块路径添加到 CMAKE_MODULE_PATH 变量中，让 CMake 能够通过include()命令找到它们提供的模块文件。
 list(APPEND CMAKE_MODULE_PATH ${LLVM_CMAKE_DIR})
 list(APPEND CMAKE_MODULE_PATH ${MLIR_CMAKE_DIR})
 
-include(TableGen)
+# 导入三个核心模块，tablegen、addllvm和addmlir
+include(TableGen) 
 include(AddLLVM)
 include(AddMLIR)
 include_directories(${LLVM_INCLUDE_DIRS})
 include_directories(${MLIR_INCLUDE_DIRS})
 
+#这三行代码获取了 MLIR 框架的核心组件库列表，方便在构建自定义 Dialect、Pass 或转换时，统一链接所需的 MLIR 库，避免手动枚举所有依赖。
 get_property(dialect_libs GLOBAL PROPERTY MLIR_DIALECT_LIBS)
 get_property(conversion_libs GLOBAL PROPERTY MLIR_CONVERSION_LIBS)
 get_property(extension_libs GLOBAL PROPERTY MLIR_EXTENSION_LIBS)
@@ -83,25 +87,27 @@ add_subdirectory(src)
 ```
 ### 3、Include 目录下的 CMakeLists 文件
 ```python
+
 set(LLVM_TARGET_DEFINITIONS temp.td)
-// 生成Pass相关
+
+# 生成Pass相关
 mlir_tablegen(temp.h.inc -gen-pass-decls -name temp) 
 add_public_tabelgen_target(MLIRTempPassesIncGen) // 构建target
 add_dependencies(mlir-headers MLIRTempPassesIncGen) // 确保依赖mlir-headers的项目都已经生成了target
 
-// 生成Dialect相关
+# 生成Dialect相关
 mlir_tablegen(temp.h.inc -gen-dialect-decls -dialect=temp) 
 mlir_tablegen(temp.cpp.inc -gen-dialect-defs -dialect=temp) 
-// 生成Type相关
+# 生成Type相关
 mlir_tablegen(temp.h.inc -gen-typedef-decls -dialect=temp) 
 mlir_tablegen(temp.cpp.inc -gen-typedef-defs -dialect=temp)
-// 生成Enums相关
+# 生成Enums相关
 mlir_tablegen(temp.h.inc -gen-enum-decls -dialect=temp) 
 mlir_tablegen(temp.cpp.inc -gen-enum-defs -dialect=temp) 
-// 生成Attr相关
+# 生成Attr相关
 mlir_tablegen(temp.h.inc -gen-attrdef-decls -dialect=temp) 
 mlir_tablegen(temp.cpp.inc -gen-attrdef-defs -dialect=temp)
-// 生成Op相关
+# 生成Op相关
 mlir_tablegen(temp.h.inc -gen-op-decls -dialect=temp) 
 mlir_tablegen(temp.cpp.inc -gen-op-defs -dialect=temp)
 add_public_tablegen_target(MLIRTempDialectIncGen)

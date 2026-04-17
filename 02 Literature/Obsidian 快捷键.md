@@ -1,6 +1,6 @@
 ---
 tags:
-  - shortcut
+  - Shortcut
   - obsidian
 title: Obsidian 快捷键
 date: 2024-04-25 10:22

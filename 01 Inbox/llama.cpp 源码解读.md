@@ -1,4 +1,4 @@
-## Llama Model
+## llama Model
 
 ```c++
 struct llama_model {
@@ -135,7 +135,8 @@ struct ggml_backend_dev_props {
 };
 ```
 
-## 获取注册器
+## 获取后端注册器
+首先这是一个静态函数，说明该函数只在当前文件中可见，其他文件无法调用，一方面是防止与其他文件的同名函数冲突，另一方面可以隐藏函数实现细节。第二个 `static` 在函数内部用于单例模式，只初始化一次，第一次调用 `get_reg()` 时创建对象，而且生命周期一直存活在函数结束。
 ```c++
 static ggml_backend_registry & get_reg() {  
     static ggml_backend_registry reg;  
@@ -144,13 +145,20 @@ static ggml_backend_registry & get_reg() {
 ```
 
 ## 后端注册器
+后端注册器在创建实例时，会自动地注册所有后端，包括后端 reg 以及后端设备。
 ```c++
+struct ggml_backend_reg_entry {
+  ggml_backend_reg_t reg;
+  dl_handle_ptr handle;
+};
+
 struct ggml_backend_registry {  
     std::vector<ggml_backend_reg_entry> backends;  
     std::vector<ggml_backend_dev_t> devices;
     
     ggml_backend_registry() {  
         register_backend(ggml_backend_cuda_reg());
+        register_backend(ggml_backend_cpu_reg());
     }
 }
 ```

@@ -1,6 +1,6 @@
 ---
 tags:
-  - pybind
+  - Pybind
 title: 使用pybind11构建c++的python binding
 date: 2026-01-16 16:34
 type: permanent-note
@@ -64,7 +64,9 @@ void py_final_module::set_tensor(
 ```c++
 // 注册一个模块名，pymlir 内部别名为 m
 PYBIND11_MODULE(pymlir, m) {
-	// 注册一个类，名为 py_module, 放入 m 中，命名为 module
+    // 1、直接在 python 模块中定义一个功能函数
+    m.def("run_pass_pipeline", &run_pass_pipeline, "run_pass_pipeline");
+	// 2、将类 py_module 注册到 python 模块中，命名为 module
 	py::class_<py_module>(m, "module", "MLIR Module")
 	    // 绑定构造函数
 		.def(py::init<>())
@@ -75,7 +77,7 @@ PYBIND11_MODULE(pymlir, m) {
 		// 绑定类中 public 的成员变量
 		.def_readonly("all_tensor_names", &py_module::all_tensor_names)；
 	
-	// 用于将c++的错误输出流重定向到python端方便debug调试
+	// 将c++的错误输出流重定向到python端方便debug调试
 	py::scoped_ostream_redirect output{std::cerr, py::module::import("sys").attr("stderr")};
 }
 
@@ -93,10 +95,12 @@ endif()
 
 project(pymlir)
 
+# 找到 pybind11 库
 find_package(pybind11 REQUIRED CONFIG)
 
 file(GLOB _sources pyfinalmlir.cpp)
 
+# 生成一个名为 pymlir 的 Python 扩展模块
 pybind11_add_module(pymlir ${_sources})
 target_link_libraries(pymlir PRIVATE
 	TPUMLIRInitAll
