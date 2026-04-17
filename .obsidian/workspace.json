@@ -8,36 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d5aecc5996560f0",
+            "id": "bb4f92d7acefab99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "04 Area/Compiler/MLIR Attributes 生成.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Attachment/Canvas/tpu-mlir.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "MLIR Attributes 生成"
-            }
-          },
-          {
-            "id": "665ebcba8e587f3e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "excalidraw-icon",
+              "title": "tpu-mlir.excalidraw"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -70,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#binding",
+                "query": "tpu-mlir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Attachment/Canvas/tpu-mlir.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "tpu-mlir.excalidraw 的反向链接列表"
             }
           },
           {
@@ -129,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Attachment/Canvas/tpu-mlir.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "tpu-mlir.excalidraw 的出链列表"
             }
           },
           {
@@ -214,16 +198,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Attachment/Canvas/tpu-mlir.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "tpu-mlir.excalidraw 的大纲"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -246,18 +231,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "665ebcba8e587f3e",
+  "active": "7e125cc952b4631e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "04 Area/Compiler/TPU-MLIR 源码阅读.md",
+    "01 Inbox/TPU-MLIR 前端.md",
+    "01 Inbox/使用pybind11构建c++的python binding.md",
+    "02 Literature/Python前端绑定C++ Kernel.md",
+    "04 Area/Compiler/modern_compiler.excalidraw.md",
+    "04 Area/Compiler/MLIR Pass 生成.md",
+    "04 Area/Compiler/MLIR Operations 生成.md",
+    "04 Area/Compiler/MLIR Opt 生成.md",
+    "04 Area/Compiler/MLIR Interfaces 生成.md",
     "04 Area/Compiler/MLIR Attributes 生成.md",
     "04 Area/Compiler/MLIR Types 生成.md",
-    "04 Area/Compiler/MLIR Dialect生成.md",
-    "04 Area/Compiler/MLIR Pass生成.md",
     "04 Area/Compiler/未命名看板.md",
+    "conflict-files-obsidian-git.md",
+    "04 Area/Compiler/MLIR Dialect生成.md",
     "04 Area/Compiler/Creating and Using LLVM Modules.md",
     "04 Area/Compiler/MLIR Concepts.md",
     "04 Area/Compiler/MLIR 项目构建.md",
-    "04 Area/Compiler/modern_compiler.excalidraw.md",
     "01 Inbox/CUDA内存.md",
     "01 Inbox/Unified and System Memory.md",
     "01 Inbox/CUDA Stream.md",
@@ -267,15 +259,8 @@
     "Attachment/Canvas/MLA.excalidraw.md",
     "Attachment/Canvas/Drawing _0.excalidraw.md",
     "Attachment/Canvas/llamacpp.excalidraw.md",
-    "01 Inbox/llama.cpp 源码解读.md",
-    "[[Attachment/Canvas/Drawing .excalidraw.md",
     "[[Attachment/Canvas",
     "[[Attachment",
-    "Attachment/Canvas/CUTLASS.excalidraw.md",
-    "01 Inbox/昇腾培训课程.md",
-    "01 Inbox/CuTe Tensor.md",
-    "01 Inbox/Cute Layouts.md",
-    "Attachment/Canvas/FlashAttention.excalidraw.md",
     "01 Inbox/未命名.base",
     "01 Inbox/未命名 1.base",
     "Attachment/Pasted image 20241021225817.png",
