@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "堆排序"
             }
+          },
+          {
+            "id": "3972131f19aa4ce7",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -96,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Inbox/堆排序.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "堆排序 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -115,12 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Inbox/堆排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "堆排序 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -201,13 +214,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Inbox/堆排序.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "堆排序 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -234,11 +246,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7e125cc952b4631e",
+  "active": "3972131f19aa4ce7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "01 Inbox/堆排序.md",
+    "04 Area/Mathematics/线性映射.md",
+    "01 Inbox/未命名.md",
     "Attachment/Pasted image 20260428134845.png",
     "01 Inbox/递归算法的时间复杂度.md",
-    "01 Inbox/堆排序.md",
     "01 Inbox/述职大纲.md",
     "04 Area/Compiler/图优化理论文献清单.md",
     "04 Area/Compiler/图优化技术Guide.md",
@@ -262,8 +277,6 @@
     "01 Inbox/卷积算子融合.md",
     "Attachment/Canvas/tpu-mlir.excalidraw.md",
     "04 Area/Compiler/TPU-MLIR 源码阅读.md",
-    "04 Area/Compiler/modern_compiler.excalidraw.md",
-    "04 Area/Compiler/MLIR Operations 生成.md",
     "[[Attachment/Canvas",
     "[[Attachment",
     "01 Inbox/未命名.base",
@@ -276,7 +289,6 @@
     "Attachment/Pasted image 20240124095558.png",
     "Attachment/image-20231219153717831.png",
     "Attachment/Pasted Image 20251204153559_023.png",
-    "Attachment/Pasted Image 20251204152959_818.png",
     "未命名",
     "04 Area/LLM",
     "04 Area/Compiler",
