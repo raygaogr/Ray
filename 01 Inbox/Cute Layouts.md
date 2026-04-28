@@ -333,3 +333,4 @@ auto logical_product(Layout<LShape,LStride> const& layout,
   return make_layout(layout, composition(complement(layout, size(layout)*cosize(tiler)), tiler));
 }
 ```
+$$\forall k \in D_{L^\ddagger},\quad L^\ddagger\bigl (L (L^\ddagger (k))\bigr) = L^\ddagger (k)  $$

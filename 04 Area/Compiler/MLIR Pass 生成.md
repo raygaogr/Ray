@@ -130,6 +130,7 @@ def TempPass : Pass<"temp-pass", "::mlir::TempPass"> {
 		The description of the Pass
 	}];
 	let dependentDialect = ["mlir::affine::AffineDialect"];
+	let constructor = "createTemp();" // 用于命令行调用
 }
 
 #endif
@@ -320,3 +321,13 @@ struct SoftmaxOpToLinalgPattern : public OpConversionPattern/*注意这里是用
 }
 }
 ```
+
+## 写优化 Pass 的思路（重要）
+以 conv->batch->relu 的融合为例
+### **1、为一种 Pattern 最后一个 Op 定义一个优化 Pass**
+针对 ReluOp 定义一个 fusedPass；
+### **2、完成 matchAndRewriter 的实现**
+从 ReluOp 的 input 出发，判断它是否是 batchOp 以及是否满足一些要求，如果不满足则匹配失败，如果满足再获取 batchOp 的输入判断它是否是 ConvOp 以及是否满足一些要求，如果不满足则匹配失败，否则匹配成功，最后完成 Op 的一些替换。
+
+
+![[Pasted image 20260420151349.png]]

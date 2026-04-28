@@ -8,15 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb4f92d7acefab99",
+            "id": "6b222c3a5dd3d7d8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Attachment/Canvas/tpu-mlir.excalidraw.md"
+                "file": "01 Inbox/堆排序.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "tpu-mlir.excalidraw"
+              "icon": "lucide-file",
+              "title": "堆排序"
             }
           }
         ],
@@ -52,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tpu-mlir",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/Canvas/tpu-mlir.excalidraw.md",
+                "file": "01 Inbox/堆排序.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "tpu-mlir.excalidraw 的反向链接列表"
+              "title": "堆排序 的反向链接列表"
             }
           },
           {
@@ -112,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachment/Canvas/tpu-mlir.excalidraw.md",
+                "file": "01 Inbox/堆排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "tpu-mlir.excalidraw 的出链列表"
+              "title": "堆排序 的出链列表"
             }
           },
           {
@@ -198,17 +201,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachment/Canvas/tpu-mlir.excalidraw.md",
+                "file": "01 Inbox/堆排序.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "tpu-mlir.excalidraw 的大纲"
+              "title": "堆排序 的大纲"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -233,32 +236,34 @@
   },
   "active": "7e125cc952b4631e",
   "lastOpenFiles": [
-    "04 Area/Compiler/TPU-MLIR 源码阅读.md",
-    "01 Inbox/TPU-MLIR 前端.md",
-    "01 Inbox/使用pybind11构建c++的python binding.md",
-    "02 Literature/Python前端绑定C++ Kernel.md",
-    "04 Area/Compiler/modern_compiler.excalidraw.md",
-    "04 Area/Compiler/MLIR Pass 生成.md",
-    "04 Area/Compiler/MLIR Operations 生成.md",
-    "04 Area/Compiler/MLIR Opt 生成.md",
-    "04 Area/Compiler/MLIR Interfaces 生成.md",
-    "04 Area/Compiler/MLIR Attributes 生成.md",
-    "04 Area/Compiler/MLIR Types 生成.md",
-    "04 Area/Compiler/未命名看板.md",
-    "conflict-files-obsidian-git.md",
+    "Attachment/Pasted image 20260428134845.png",
+    "01 Inbox/递归算法的时间复杂度.md",
+    "01 Inbox/堆排序.md",
+    "01 Inbox/述职大纲.md",
+    "04 Area/Compiler/图优化理论文献清单.md",
+    "04 Area/Compiler/图优化技术Guide.md",
+    "04 Area/Compiler/图优化.md",
     "04 Area/Compiler/MLIR Dialect生成.md",
-    "04 Area/Compiler/Creating and Using LLVM Modules.md",
-    "04 Area/Compiler/MLIR Concepts.md",
-    "04 Area/Compiler/MLIR 项目构建.md",
     "01 Inbox/CUDA内存.md",
-    "01 Inbox/Unified and System Memory.md",
-    "01 Inbox/CUDA Stream.md",
-    "Attachment/Canvas/llama.cpp.excalidraw.md",
-    "01 Inbox/CUDA Graph.md",
-    "01 Inbox/llama.cpp 源码阅读.md",
-    "Attachment/Canvas/MLA.excalidraw.md",
-    "Attachment/Canvas/Drawing _0.excalidraw.md",
-    "Attachment/Canvas/llamacpp.excalidraw.md",
+    "01 Inbox/卷积实现.md",
+    "02 Literature/Design and Implementation of Deep Learning 2D Convolutions on modern CPUs.md",
+    "02 Literature/High Performance Zero-Memory Overhead Direct Convolutions.md",
+    "04 Area/Compiler/MLIR Pass 生成.md",
+    "04 Area/Compiler/deep_learning_graph_optimization.md",
+    "01 Inbox/Cute Layouts.md",
+    "01 Inbox/CuTE Composition.md",
+    "01 Inbox/GEMM Micro Kernel.md",
+    "01 Inbox/GEMM Macro Kernel.md",
+    "01 Inbox/CuTE 常见概念.md",
+    "01 Inbox/CuTE.md",
+    "04 Area/Compiler/Unconfirmed 979670.crdownload",
+    "01 Inbox/OpenMP Guide.md",
+    "Attachment/Pasted image 20260420151349.png",
+    "01 Inbox/卷积算子融合.md",
+    "Attachment/Canvas/tpu-mlir.excalidraw.md",
+    "04 Area/Compiler/TPU-MLIR 源码阅读.md",
+    "04 Area/Compiler/modern_compiler.excalidraw.md",
+    "04 Area/Compiler/MLIR Operations 生成.md",
     "[[Attachment/Canvas",
     "[[Attachment",
     "01 Inbox/未命名.base",
@@ -272,7 +277,6 @@
     "Attachment/image-20231219153717831.png",
     "Attachment/Pasted Image 20251204153559_023.png",
     "Attachment/Pasted Image 20251204152959_818.png",
-    "Attachment/Pasted Image 20251204152941_433.png",
     "未命名",
     "04 Area/LLM",
     "04 Area/Compiler",
